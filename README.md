@@ -1,24 +1,24 @@
-# Kaetram
+# StuxCraft - Browser MMORPG
 
-[![Version](https://img.shields.io/github/package-json/v/Kaetram/Kaetram-Open)](https://github.com/Kaetram/Kaetram-Open/releases/latest 'Version')
+[![Version](https://img.shields.io/github/package-json/v/Kaetram/Kaetram-Open)](https://github.com/StuxCraft/StuxCraft/releases/latest 'Version')
 [![MPL-2.0 License](https://img.shields.io/github/license/Kaetram/Kaetram-Open)][license]
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fkaetram.com&style=flat)](https://kaetram.com 'Website')
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fkaetram.com&style=flat)](https://stuxcraft.com 'Website')
 [![Workflow Status](https://img.shields.io/github/workflow/status/Kaetram/Kaetram-Open/Kaetram-Open%20CI)](https://github.com/Kaetram/Kaetram-Open/actions 'Workflow Status')
 [![Open Issues](https://img.shields.io/github/issues/Kaetram/Kaetram-Open)][issues]
 
-[![Watch](https://img.shields.io/github/watchers/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/Kaetram/Kaetram-Open/subscription 'Watch')
-[![Stars](https://img.shields.io/github/stars/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/Kaetram/Kaetram-Open/stargazers 'Stars')
-[![Fork](https://img.shields.io/github/forks/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/Kaetram/Kaetram-Open/fork 'Fork')
+[![Watch](https://img.shields.io/github/watchers/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/StuxCraft/StuxCraft/subscription 'Watch')
+[![Stars](https://img.shields.io/github/stars/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/StuxCraft/StuxCraft/stargazers 'Stars')
+[![Fork](https://img.shields.io/github/forks/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/StuxCraft/StuxCraft/fork 'Fork')
 [![Discord](https://img.shields.io/discord/583033499741847574?logo=discord&color=7289da&style=flat)][discord]
 [![YouTube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=f00)](https://www.youtube.com/channel/UCBbxPvvBlEsBi3sWiPJA6wQ 'YouTube')
 
-Kaetram is an open-source game engine created to aid those interested in entering the game
+StuxCraft is an open-source game engine created to aid those interested in entering the game
 development realm, and intended to be used as a learning tool. The codebase is simple, clean, and
 intuitive. The original idea is based on Little Workshop's demo game&mdash;BrowserQuest (BQ), and
 uses original BQ assets as well as custom-made ones. The entire codebase has been rewritten from
 scratch using more modern approaches.
 
-Live Version &ndash; <https://kaetram.com>
+Live Version &ndash; <https://stuxcraft.com>
 
 Join us on Discord &ndash; <https://discord.gg/MmbGAaw>
 
