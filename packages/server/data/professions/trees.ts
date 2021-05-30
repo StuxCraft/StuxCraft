@@ -37,9 +37,9 @@ let Trees = {
     },
 
     Regrowth: {
-        Oak: 15000,
-        Palm: 30000,
-        IceOak: 60000,
+        Oak: 5000,
+        Palm: 15000,
+        IceOak: 30000,
         IcePalm: 72000
     },
 
