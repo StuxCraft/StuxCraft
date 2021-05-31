@@ -134,8 +134,7 @@
 
   "Sponge": {
     "id": 24,
-    "name": "Picklebob",
-    "text": ["Peep! Peep! I am not a real spnge!"]
+    "name": "Picklebob"
   },
 
   "Fairynpc": {
